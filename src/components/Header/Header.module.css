@@ -1,0 +1,27 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background:rgb(0, 0, 0);
+    padding: 1.1em 10em;
+}
+
+.logoContainer {
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.header img {
+    height: 100%;
+    align-self: start;
+    padding: 0 1rem;
+}
+
+.header span {
+    text-transform: uppercase;
+    font-weight: 200;
+    color: var(--blanco);
+    font-size: 18px;
+    justify-content: center;
+}

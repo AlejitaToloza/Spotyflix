@@ -1,0 +1,22 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    background: rgb(0, 0, 0);
+    padding: 2rem;
+    box-sizing: border-box;
+}
+
+.footer h2 {
+    color: var(--blanco);
+    font-size: 20px;
+}
+
+h2 img {
+    width: 50px;
+}
+
+
+
+

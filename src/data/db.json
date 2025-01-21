@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "titulo": "Dream On - Aerosmith",
+        "capa": "https://i.ytimg.com/vi/iJDtukGW79Y/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD9lPYBIVeH66vdQVpViWplNhuGCw",
+        "link": "https://www.youtube.com/embed/iJDtukGW79Y"
+    },
+    {
+        "id": 2,
+        "titulo": "Behind Blue Eyes - Limp Bizkit",
+        "capa": "https://i.ytimg.com/vi/-0RQU0LyJqg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBLaVrlVXmc5WkpSOKgnfi6iHSF8A",
+        "link": "https://www.youtube.com/embed/-0RQU0LyJqg"
+    },
+    {
+        "id": 3,
+        "titulo": "I Want To Know What Love Is - Foreigner",
+        "capa": "https://i.ytimg.com/vi/r3Pr1_v7hsw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCnDayO-42EDQjsx1es-43awkWuDQ",
+        "link": "https://www.youtube.com/embed/raNGeq3_DtM"
+    },
+    {
+        "id": 4,
+        "titulo": "More than Words - Extreme",
+        "capa": "https://i.ytimg.com/vi/UrIiLvg58SY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCETdPnNBGtC-wGSMasEhJyr7SAXg",
+        "link": "https://www.youtube.com/embed/UrIiLvg58SY"
+    },
+    {
+        "id": 5,
+        "titulo": "Losing My Religion - R.E.M.",
+        "capa": "https://i.ytimg.com/vi/xwtdhWltSIg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCkIiMA91HWRKA6N2La65nSWpZWGw",
+        "link": "https://www.youtube.com/embed/xwtdhWltSIg"
+    },
+    {
+        "id": 6,
+        "titulo": "What's Up? - 4 Non Blondes",
+        "capa": "https://i.ytimg.com/vi/V8TMnQF6b9U/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA_JPfNghYdUAGHiCX3EqPDrfpvKA",
+        "link": "https://www.youtube.com/embed/V8TMnQF6b9U"
+    },
+    {
+        "id": 7,
+        "titulo": "Lovesong - The Cure",
+        "capa": "https://i.ytimg.com/vi/ks_qOI0lzho/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDlRHzAMRU_TAaPxqjW1rTKwuma7g",
+        "link": "https://www.youtube.com/embed/ks_qOI0lzho&list=RDks_qOI0lzho&start_radio=1"
+    },
+    {
+        "id": 8,
+        "titulo": "Like a Stone - Audioslave",
+        "capa": "https://i.ytimg.com/vi/7QU1nvuxaMA/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC9kaYF96CvNwBp0hIS18Wli2hJng",
+        "link": "https://www.youtube.com/embed/7QU1nvuxaMA&list=RDks_qOI0lzho&index=2"
+    },
+    {
+        "id": 9,
+        "titulo": "Come Undone - Duran Duran",
+        "capa": "https://i.ytimg.com/vi/Epj84QVw2rc/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDjqMAwacPSgtv77KkF12UN68yhzQ",
+        "link": "https://www.youtube.com/embed/Epj84QVw2rc&list=RDks_qOI0lzho&index=7"
+    }
+]
